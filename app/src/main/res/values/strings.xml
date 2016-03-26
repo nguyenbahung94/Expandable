@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Working with Expandable listview</string>
+    <string-array name="header_title">
+        <item>Action Movies</item>
+        <item>Romantic Movies</item>
+        <item>Horror Movies</item>
+    </string-array>
+    <string-array name="h1_items">
+        <item>h1 item1</item>
+        <item>h1 item2</item>
+        <item>h1 item3</item>
+    </string-array>
+    <string-array name="h2_items">
+        <item>h2 item1</item>
+        <item>h2 item2</item>
+        <item>h2 item3</item>
+    </string-array>
+    <string-array name="h3_items">
+        <item>h3 item1</item>
+        <item>h3 item2</item>
+        <item>h3 item3</item>
+    </string-array>
+</resources>
